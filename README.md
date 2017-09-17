@@ -1,2 +1,3 @@
 # SA-MP
-SA-MP Stuff
+
+Some perhaps unnecessary things for SA-MP.
